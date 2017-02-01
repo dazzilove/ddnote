@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		521DFC131E41981C008E184D /* TestController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 521DFC121E41981C008E184D /* TestController.swift */; };
 		5256904B1E4196DB000A11EC /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5256904A1E4196DB000A11EC /* AppDelegate.swift */; };
 		5256904D1E4196DB000A11EC /* MasterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5256904C1E4196DB000A11EC /* MasterViewController.swift */; };
 		5256904F1E4196DB000A11EC /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5256904E1E4196DB000A11EC /* DetailViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		521DFC121E41981C008E184D /* TestController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TestController.swift; sourceTree = "<group>"; };
 		525690471E4196DB000A11EC /* ddnoteios.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ddnoteios.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5256904A1E4196DB000A11EC /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		5256904C1E4196DB000A11EC /* MasterViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MasterViewController.swift; sourceTree = "<group>"; };
@@ -56,6 +58,7 @@
 		525690491E4196DB000A11EC /* ddnoteios */ = {
 			isa = PBXGroup;
 			children = (
+				521DFC121E41981C008E184D /* TestController.swift */,
 				5256904A1E4196DB000A11EC /* AppDelegate.swift */,
 				5256904C1E4196DB000A11EC /* MasterViewController.swift */,
 				5256904E1E4196DB000A11EC /* DetailViewController.swift */,
@@ -142,6 +145,7 @@
 				5256904F1E4196DB000A11EC /* DetailViewController.swift in Sources */,
 				5256904D1E4196DB000A11EC /* MasterViewController.swift in Sources */,
 				5256904B1E4196DB000A11EC /* AppDelegate.swift in Sources */,
+				521DFC131E41981C008E184D /* TestController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -303,6 +307,7 @@
 				5256905D1E4196DB000A11EC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
