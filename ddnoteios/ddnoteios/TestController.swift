@@ -7,3 +7,7 @@
 //
 
 import UIKit
+
+class TestController: UIViewController {
+    let i = 1
+}
